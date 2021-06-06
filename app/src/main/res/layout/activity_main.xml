@@ -38,7 +38,7 @@
 
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/btnStarAme"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Order" />
@@ -50,7 +50,7 @@
                 app:srcCompat="@drawable/c2" />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/btnStarVanilla"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Order" />
@@ -62,7 +62,7 @@
                 app:srcCompat="@drawable/c3" />
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/btnStarCafemoca"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Order" />
@@ -75,7 +75,7 @@
                 app:srcCompat="@drawable/c5" />
 
             <Button
-                android:id="@+id/button5"
+                android:id="@+id/btnStarDolce"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Order" />
@@ -88,7 +88,7 @@
 
 
             <Button
-                android:id="@+id/button7"
+                android:id="@+id/btnStarToffenut"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Order" />
